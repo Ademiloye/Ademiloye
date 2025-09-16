@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Ademiloye
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Victor 
+- 👀 I’m interested in Python and Machine learning 
+- 🌱 I’m currently learning Python and other programming language 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me : victorademiloye@gmail.com
 
-<!---
-Ademiloye/Ademiloye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
