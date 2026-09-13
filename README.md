@@ -11,7 +11,7 @@ I'm part of **UMBC AIAA's SUAS team**, working primarily on the **structures sub
 ## Currently Learning 🌱
 
 - **Foundations of AI Engineering at CodePath**
-- **Computer Engineering — Electronic Systems track at UMBC**
+- **Computer Engineering, Electronic Systems track at UMBC**
 - Continuing to develop my skills in **Python** and explore **machine learning**
 
 ## Campus Involvement
